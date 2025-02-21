@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/viditkumar.svg?style=social&label=Followers)](https://github.com/viditkumar?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2BB9F7&size=30&lines=Hi+there,+I+am+Vidit;A+Human+Software+Developer;A+Competitive+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2BB9F7&size=30&lines=Hi+there,+I+am+Vidit;Human+Software+Developer;A+Competitive+Programmer)](https://git.io/typing-svg)
 
 <h3>About me:</h3>
 
