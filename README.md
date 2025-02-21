@@ -8,7 +8,7 @@
 
 - 🎓 Senior Software Developer
 - 💻 Graduated from IIT Guwahati
-- 🗠 Competitive Programmer
+- 🗠  A Competitive Programmer
 
 <p>Connect with me on
 <br>
@@ -24,8 +24,6 @@
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=viditkumar&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="overview" width="410"/></p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=viditkumar&theme=gruvbox&hide_border=false&area=true&include_all_commits=true&count_private=true)
-
 <br>
 <br>
 
@@ -35,9 +33,16 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 ### 🛠 &nbsp;Tools & Technologies:
-![SpringBoot](https://img.shields.io/badge/-Spring-000?&logo=SpringBoot)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-Spring-black?&logo=SpringBoot)&nbsp;
+![Kafka](https://img.shields.io/badge/Kafka-black)&nbsp;
+![System Design](https://img.shields.io/badge/System%20Design-black)&nbsp;
+![Microservices](https://img.shields.io/badge/Microservices-black)&nbsp;
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-black)&nbsp;
+![Data Structures](https://img.shields.io/badge/Data%20Structures-black)&nbsp;
+![Algorithms](https://img.shields.io/badge/Algorithms-black)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubenetes-black?logo=Kubernetes)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-black?logo=Jenkins)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=viditkumar&theme=gruvbox" />
+
 <br/>
